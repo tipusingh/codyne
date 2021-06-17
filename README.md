@@ -1,2 +1,2 @@
-# codyne
+# Codyne
 https://codyne.in/
